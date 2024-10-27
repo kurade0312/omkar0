@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 jai shree ram
@@ -11,3 +12,6 @@ jai shree ram
 =======
 hello
 >>>>>>> c61c6a1 (bye)
+=======
+jai shree ram
+>>>>>>> a61e92b (new line added)
