@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 jai shree ram
@@ -7,3 +8,6 @@ jai shree ram
 =======
 jai shree ram
 >>>>>>> feature_branch
+=======
+hello
+>>>>>>> c61c6a1 (bye)
